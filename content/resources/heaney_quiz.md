@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: eea05059-aa9a-f888-dd65-49fcaa5b5949
 resourcetype: Document
 title: heaney_quiz.pdf
 uid: 0c3b9842-43f0-eedc-836c-0e9e10098dd7

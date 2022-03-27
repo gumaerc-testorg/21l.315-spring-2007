@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: eea05059-aa9a-f888-dd65-49fcaa5b5949
 resourcetype: Document
 title: heaney_essays.pdf
 uid: bbdaf64f-6b85-64c7-6b27-77d03626c6c9

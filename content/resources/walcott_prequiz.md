@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: eea05059-aa9a-f888-dd65-49fcaa5b5949
 resourcetype: Document
 title: walcott_prequiz.pdf
 uid: 82739913-3f14-43a4-d690-be3280b6dc31

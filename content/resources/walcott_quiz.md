@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: eea05059-aa9a-f888-dd65-49fcaa5b5949
 resourcetype: Document
 title: walcott_quiz.pdf
 uid: b78b00cc-a111-d799-e7e6-cd2c7786bc55
