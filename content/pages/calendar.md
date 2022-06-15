@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: The schedule of readings and assignments is presented here. Titles indicate
+  the original volumes in which poems appeared; selected poems were assigned from
+  each volume.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 05021787-eb15-1543-e078-f17230150229
 ---
