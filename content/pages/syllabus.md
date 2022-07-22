@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, reading, quizzes, participation, take-home exams, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ede0552d-22f5-7417-0493-34bb572c4ae0
 ---
