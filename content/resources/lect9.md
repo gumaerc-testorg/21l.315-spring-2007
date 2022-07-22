@@ -6,6 +6,7 @@ file: /courses/21l-315-prizewinners-spring-2007/a4e08e1970d39eee038020b4b118af8d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect9.pdf
 uid: a4e08e19-70d3-9eee-0380-20b4b118af8d
 ---
 Partial transcript of class discussion about Derek Walcott, Sea Grapes, and The Star-Apple Kingdom.
-

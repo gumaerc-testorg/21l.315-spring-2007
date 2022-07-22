@@ -6,6 +6,7 @@ file: /courses/21l-315-prizewinners-spring-2007/5f4ef2b7494b19d06e4519460ca0b992
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect10.pdf
 uid: 5f4ef2b7-494b-19d0-6e45-19460ca0b992
 ---
 Partial transcript of class discussion about Derek Walcott, The Star-Apple Kingdom, and The Fortunate Traveller.
-

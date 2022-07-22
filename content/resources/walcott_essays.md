@@ -5,6 +5,7 @@ file: /courses/21l-315-prizewinners-spring-2007/4ac207ec224e1f90f20acfdd3997219d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: walcott_essays.pdf
 uid: 4ac207ec-224e-1f90-f20a-cfdd3997219d
 ---
 This resource contains a take-home exam on Walcott.
-
