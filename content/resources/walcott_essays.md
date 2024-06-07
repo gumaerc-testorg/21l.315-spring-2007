@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a take-home exam on Walcott.
 file: /courses/21l-315-prizewinners-spring-2007/4ac207ec224e1f90f20acfdd3997219d_walcott_essays.pdf
+file_size: 13237
 file_type: application/pdf
 learning_resource_types:
 - Exams
