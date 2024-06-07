@@ -3,6 +3,7 @@ content_type: resource
 description: Partial transcript of class discussion about Derek Walcott, Omeros, Books
   III-V.
 file: /courses/21l-315-prizewinners-spring-2007/79b3d53d253909c577b71a8fcfa733db_lect12.pdf
+file_size: 36864
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

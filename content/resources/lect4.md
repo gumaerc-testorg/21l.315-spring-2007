@@ -2,6 +2,7 @@
 content_type: resource
 description: Partial transcript of class discussion about Seamus Heaney and North.
 file: /courses/21l-315-prizewinners-spring-2007/cf36d66ce4326ed7d086c3e657790798_lect4.pdf
+file_size: 20169
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

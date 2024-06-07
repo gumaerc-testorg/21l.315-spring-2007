@@ -3,6 +3,7 @@ content_type: resource
 description: Partial transcript of class discussion about Derek Walcott, The Castaway,
   and The Gulf.
 file: /courses/21l-315-prizewinners-spring-2007/6f6e8d3c9f3578c288d5bd852529df3a_lect8.pdf
+file_size: 27004
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
