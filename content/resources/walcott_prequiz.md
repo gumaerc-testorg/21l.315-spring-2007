@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains guidelines and instructions for the Walcott Quiz.
-file: /courses/21l-315-prizewinners-spring-2007/827399133f1443a4d690be3280b6dc31_walcott_prequiz.pdf
+file: /ol-ocw-studio-app/courses/21l-315-prizewinners-spring-2007/827399133f1443a4d690be3280b6dc31_walcott_prequiz.pdf
 file_size: 13240
 file_type: application/pdf
 learning_resource_types:
