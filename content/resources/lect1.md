@@ -2,7 +2,7 @@
 content_type: resource
 description: Partial transcript of class discussion on Seamus Heaney, Beowulf, translator's
   introduction, and "The Settle Bed."
-file: /courses/21l-315-prizewinners-spring-2007/d05c4253520e723c2df7ced657917e06_lect1.pdf
+file: /ol-ocw-studio-app/courses/21l-315-prizewinners-spring-2007/d05c4253520e723c2df7ced657917e06_lect1.pdf
 file_size: 17724
 file_type: application/pdf
 learning_resource_types:
