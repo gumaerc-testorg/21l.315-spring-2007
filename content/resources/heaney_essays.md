@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a take-home exam on Heaney.
-file: /ol-ocw-studio-app/courses/21l-315-prizewinners-spring-2007/bbdaf64f6b8564c76b2777d03626c6c9_heaney_essays.pdf
+file: /courses/21l-315-prizewinners-spring-2007/bbdaf64f6b8564c76b2777d03626c6c9_heaney_essays.pdf
 file_size: 30415
 file_type: application/pdf
 learning_resource_types:
