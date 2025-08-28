@@ -2,7 +2,7 @@
 content_type: resource
 description: Partial transcript of class discussion about Derek Walcott and In a Green
   Night.
-file: /courses/21l-315-prizewinners-spring-2007/ecd8e5822722e56a90582153da441a19_lect7.pdf
+file: /ol-ocw-studio-app/courses/21l-315-prizewinners-spring-2007/ecd8e5822722e56a90582153da441a19_lect7.pdf
 file_size: 20299
 file_type: application/pdf
 learning_resource_types:
